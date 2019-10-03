@@ -80,7 +80,7 @@ header img {
   left: 30px;
 }
 
-.navi_bar img:4 {
+.navi_bar img:hover {
   animation: SpinAnim 1 0.5s ease-out;
 }
 
