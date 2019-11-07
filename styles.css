@@ -1131,4 +1131,7 @@ ul.skills > li:hover {
       color: #673ab7;
   }
 }
-
+.fa-github-square:hover {color: #333;}
+.fa-linkedin-square:hover {color: #0077b5;}
+.fa-twitter-square:hover {color: #1da1f2;}
+.fa-youtube-square:hover {color: #FF0000;}
